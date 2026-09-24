@@ -16,4 +16,5 @@ const prices = rateTexts.map(text => {
 return Number(text.replace(/[^0-9]/g, ''));
 });
 const lowestPrice = Math.min(...prices);
-console.log('Lowest price:', lowestPrice);
+console.log('Lowest price:', Higherst
+    Price);
